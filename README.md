@@ -1,2 +1,2 @@
 # flutter_app
-flutter app basic
+Application flutter de base
